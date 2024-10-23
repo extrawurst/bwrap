@@ -24,7 +24,7 @@ doctest = false # doctests need use_std
 use_std = []
 
 [dependencies]
-unicode-width = "0.1.0"
+unicode-width = "0.2"
 
 [package.metadata.docs.rs]
 all-features = true
